@@ -1,0 +1,67 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "/RE0VzeaXdaBUNeNMUXWqzly7qY=",
+			"path": "github.com/gobwas/glob",
+			"revision": "f756513aec94125582ee6c0dc94179251ef87370",
+			"revisionTime": "2018-08-08T20:28:40Z"
+		},
+		{
+			"checksumSHA1": "UIxNdlqa2kcYi5EEe79/WzyPiz4=",
+			"path": "github.com/gobwas/glob/compiler",
+			"revision": "f756513aec94125582ee6c0dc94179251ef87370",
+			"revisionTime": "2018-08-08T20:28:40Z"
+		},
+		{
+			"checksumSHA1": "jNdbCxBabqjv9tREXA4Nx45Y4wg=",
+			"path": "github.com/gobwas/glob/match",
+			"revision": "f756513aec94125582ee6c0dc94179251ef87370",
+			"revisionTime": "2018-08-08T20:28:40Z"
+		},
+		{
+			"checksumSHA1": "2KhDNUE98XhHnIgg2S9E4gcWoig=",
+			"path": "github.com/gobwas/glob/syntax",
+			"revision": "f756513aec94125582ee6c0dc94179251ef87370",
+			"revisionTime": "2018-08-08T20:28:40Z"
+		},
+		{
+			"checksumSHA1": "FPIMdPSazNZGNU+ZmPtIeZpVHFU=",
+			"path": "github.com/gobwas/glob/syntax/ast",
+			"revision": "f756513aec94125582ee6c0dc94179251ef87370",
+			"revisionTime": "2018-08-08T20:28:40Z"
+		},
+		{
+			"checksumSHA1": "umyztSrQrQIl9JgwhDDb6wrSLeI=",
+			"path": "github.com/gobwas/glob/syntax/lexer",
+			"revision": "f756513aec94125582ee6c0dc94179251ef87370",
+			"revisionTime": "2018-08-08T20:28:40Z"
+		},
+		{
+			"checksumSHA1": "vux29fN5O22F3QPLOnjQ37278vg=",
+			"path": "github.com/gobwas/glob/util/runes",
+			"revision": "f756513aec94125582ee6c0dc94179251ef87370",
+			"revisionTime": "2018-08-08T20:28:40Z"
+		},
+		{
+			"checksumSHA1": "Sxp2AHWkkLkIq6w9aMcLmzcwD6w=",
+			"path": "github.com/gobwas/glob/util/strings",
+			"revision": "f756513aec94125582ee6c0dc94179251ef87370",
+			"revisionTime": "2018-08-08T20:28:40Z"
+		},
+		{
+			"checksumSHA1": "z/DzcKNumSHzzxg9Widbi9KgwNw=",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "26a05976f9bf5c3aa992cc20e8588c359418ee58",
+			"revisionTime": "2018-10-21T22:38:31Z"
+		},
+		{
+			"checksumSHA1": "ZSWoOPUNRr5+3dhkLK3C4cZAQPk=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
+			"revisionTime": "2018-03-28T19:50:20Z"
+		}
+	],
+	"rootPath": "github.com/nehayward/metadata"
+}
